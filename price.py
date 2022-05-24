@@ -32,3 +32,5 @@ while meses < 6:
         valoramorizacao = amortizacao
 print(f'O valor da AMORTIZAÇÃO na 4ª prestação será de: R${valoramorizacao:.2f}')
 print('-'*60)
+
+# Feito por Ana Luiza Gonzaga

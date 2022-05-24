@@ -7,3 +7,4 @@ e indique qual será o valor da amortizadação da 4ª prestação."
 Sitema de Tabela Price
 Criado para a Atividade Prática de Aprendizagem II da disciplina Matemática Financeira
 G2 - Administração - UCA 2022
+Feito usando Python como parte do aprendizado da linguagem
